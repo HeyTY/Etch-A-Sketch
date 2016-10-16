@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"sr",
+				"src\tAttr"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Google",
+				"Google_logo"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"g",
+				"Google_logo"
+			],
+			[
+				"src",
+				"srcset\tAttr"
+			],
+			[
+				"l_",
+				"l_ant"
+			],
+			[
+				"moz",
+				"moz-border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/TL/Desktop/Coding/jquery slider project/js/jquery.js",
+		"/Users/TL/Desktop/Coding/jquery slider project/index.html",
+		"/Users/TL/odin/project-euler/script.js",
+		"/Users/TL/odin/project-euler/index.html",
+		"/Users/TL/Desktop/Coding/Scraps/scrap.html",
+		"/Users/TL/odin/google-homepage/index.html",
+		"/Users/TL/odin/google-homepage/styles/style.css",
+		"/Users/TL/Desktop/Coding/Google/Kellys Solution/index.html",
+		"/Users/TL/Desktop/Coding/HTMLDOG/styles/style.css",
+		"/Users/TL/odin/google-homepage/README.md",
+		"/Users/TL/Desktop/Coding/HTMLDOG/myfirstpage v2",
+		"/Users/TL/Desktop/Coding/HTMLDOG/myfirstpage%20v2",
+		"/Users/TL/Desktop/Coding/Treehouse/input.html",
+		"/Users/TL/Desktop/Coding/Android/v2/<div class=\"android\">.html",
+		"/Users/TL/Desktop/Coding/Android/style.css",
+		"/Users/TL/Desktop/Coding/Android/v2/styles.css",
+		"/Users/TL/Desktop/Coding/HTMLDOG/myfirstpage.html",
+		"/Users/TL/Desktop/codeacademytest.html",
+		"/Users/TL/Desktop/mozilla test/scripts/main.js",
+		"/Users/TL/Desktop/mozilla test/styles/style.css",
+		"/Users/TL/Desktop/mozilla test/index.html",
+		"/Users/TL/Desktop/mozilla test/style.css",
+		"/Users/TL/Desktop/test.html",
+		"/Users/TL/Desktop/mozilla.html",
+		"/Users/TL/odin/odin_git_test/README.md",
+		"/Users/TL/Documents/gittest/NewGitTest/USA.html",
+		"/Users/TL/Documents/gittest/NewGitTest/index.html",
+		"/Users/TL/railsbridge/test_app/Gemfile",
+		"/Users/TL/railsbridge/test_app/config/routes.rb",
+		"/Users/TL/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "original.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
