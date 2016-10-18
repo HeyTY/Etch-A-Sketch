@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>TY LE | jQuery Etch-A-Sketch</title>
+	<meta charset="utf-8">
+	<title>TY LE | jQuery Sketch Pad</title>
 	<link rel="stylesheet" href="css/Etch-A-Sketch.css">
+	<link href="<link href="https://fonts.googleapis.com/css?family=Orbitron:700" rel="stylesheet">
 </head>
 
 <body>
-	<div id="wrapper"></div>
+	
 
+
+<div id="top_wrapper">
+	<h1>Ty Le | Sketch Pad</h1>
+		<button id="default" type="button" onclick="operate(1)">Default</button>
+		<button id="RGB" type="button" onclick="operate(2)">RGB Colors</button>
+		<button id="Trail" type="button" onclick="operate(3)">Trail</button>	
+		<button id="clear" type="button" onclick="operate(4)">Clear</button>
+</div>
+
+<div id="wrapper">
+	</div>
 
 
 <script src="http://code.jquery.com/jquery-2.2.4.js"></script>
